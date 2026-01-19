@@ -8,8 +8,8 @@ This project covers the **full machine learning lifecycle**:
 
 ## 📌 Project Highlights
 
-- 🧠 **Model**: ResNet-18 (transfer learning)
-- 🎨 **Dataset**: WikiArt (26 art styles)
+- 🧠 **Model**: ResNet-18 (transfer learning) (wikiart_resnet18_best.pth on my dropbox)
+- 🎨 **Dataset**: WikiArt (26 art styles) (Download Dataset and model.pth from my Dropbox) (🔗 (https://www.dropbox.com/scl/fo/wr7cellnqqf2rg0vojv3z/AIamvUT7JKoTKrXDXw7bi1s?rlkey=7qdey75eldu6ohqza9nweu8kq&st=4wtx1nhi&dl=0))
 - 📊 **Performance**:
   - **Validation Accuracy**: ~45%
   - **Test Accuracy**: **41.18%**
@@ -38,7 +38,7 @@ This project covers the **full machine learning lifecycle**:
 ├── requirements.txt
 └── README.md
 ```
-
+(Download model and dataset from the dropbox link I have provided and organize them in the structure mentioned above)
 
 ---
 
