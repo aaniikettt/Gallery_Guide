@@ -1,4 +1,4 @@
-# Gallery_Guide
+# Gallery_Guide: Identify the Artwork You Like 
 An end-to-end **art style classification system** trained on the **WikiArt dataset** (26 art styles), using **ResNet-18 with transfer learning**, and deployed as a **Dockerized FastAPI inference service** (Apple Silicon / ARM compatible).
 
 This project covers the **full machine learning lifecycle**:
